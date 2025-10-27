@@ -3,6 +3,8 @@
 An **AI-powered Resume Parser App** built using **Google Gemini**, **LangChain**, and **Streamlit**.  
 It extracts essential information like **LinkedIn, Skills, Education, Experience, and Projects** from uploaded resumes in **PDF**, **DOCX**, or **TXT** formats — all in a beautiful and responsive UI.
 
+**Live Demo** - https://parsegen.streamlit.app/
+
 ---
 
 ## 🚀 Features
@@ -40,3 +42,4 @@ It extracts essential information like **LinkedIn, Skills, Education, Experience
 ```bash
 git clone https://github.com/Anmol1630/Resume-Parser-using-Gemini-streamlit.git
 cd Resume-Parser-using-Gemini-streamlit
+
